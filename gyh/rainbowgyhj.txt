@@ -1,3 +1,5 @@
-main(){
-printf "你好世界"
+﻿main(){
+printf "你好朋友"
+
+你好你好
 }
